@@ -1,0 +1,6 @@
+[requires]
+spdlog/1.9.2
+catch2/2.13.7
+
+[generators]
+cmake_find_package
